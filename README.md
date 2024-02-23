@@ -7,7 +7,7 @@
       1) HTML
       2) CSS
 
-<h2>Images : </h2>
+<h2>Website Preview : </h2>
 
 <ol>
       <img width="1063" alt="image" src="https://github.com/AmithBV0606/Amazon-UI-Clone/assets/154083629/d994c504-5c7a-446b-a265-302f23520222">
